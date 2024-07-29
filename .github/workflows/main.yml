@@ -3,7 +3,7 @@ on:
   workflow_dispatch
 
 env:
-  name: 'logicapp29'
+  name: 'logicapp29-1'
   rg-name: 'rg-logic-app'
 
 jobs:
